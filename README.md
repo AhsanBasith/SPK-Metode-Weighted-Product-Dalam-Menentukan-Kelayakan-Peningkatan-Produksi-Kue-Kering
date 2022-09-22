@@ -5,3 +5,4 @@
 # weighted-product
 # SPK-Metode-Weighted-Product-Dalam-Menentukan-Kelayakan-Peningkatan-Produksi-Kue-Kering
 # SPK-Metode-Weighted-Product-Dalam-Menentukan-Kelayakan-Peningkatan-Produksi-Kue-Kering
+# SPK-Metode-Weighted-Product-Dalam-Menentukan-Kelayakan-Peningkatan-Produksi-Kue-Kering
